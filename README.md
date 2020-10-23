@@ -9,4 +9,4 @@ Hi, welcome to this mini-library of helpful scripts made with Python.
 # Installation guide 
 1. Clone the repo
 2. Modify the script that you want to use
-3 Enjoy
+3. Enjoy
