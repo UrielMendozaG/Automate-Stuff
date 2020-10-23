@@ -1,4 +1,4 @@
-# Automate-Stuff
+# Automate Stuff
 
 Hi, welcome to this mini-library of helpful scripts made with Python. 
 
